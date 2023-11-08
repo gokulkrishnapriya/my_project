@@ -1,0 +1,25 @@
+
+/* Example CSS */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #a799c8;
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+}
+
+p {
+    font-size: 16px;
+}
+
+img {
+    max-width: 100%;
+}
+
+a {
+    text-decoration: none;
+    color: #0074D9;
+}
+
